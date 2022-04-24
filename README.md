@@ -1,6 +1,6 @@
 # 2022--Murphy et al.--Growth and adaptation mechanisms of tumour spheroids with time-dependent oxygen availability
 
-Preprint on bioRxiv: TBC
+Preprint on bioRxiv: .
 
 Experimental data and key MATLAB code used to generate figures to be uploaded May 2022.
 
