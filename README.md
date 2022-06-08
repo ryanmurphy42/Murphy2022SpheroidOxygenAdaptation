@@ -2,7 +2,7 @@
 
 Preprint on bioRxiv: https://www.biorxiv.org/content/10.1101/2022.04.24.489294v1
 
-Experimental data and key MATLAB code used to generate figures to be uploaded May 2022.
+Experimental data and key MATLAB code used to generate figures to be uploaded June 2022.
 
 Software requirements: MATLAB 2021b or later.
 
