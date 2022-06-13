@@ -8,7 +8,7 @@ Please contact Ryan Murphy for any queries or questions.
 
 
 Software requirements: 
-MATLAB R2021b (v9.11) with the Image Processing Toolbox (v11.4), Optimization Toolbox (v9.2), Global Optimization Toolbox (v4.6), and the Statistics and Machine Learning Toolbox (v12.2). Profile likelihood analysis is performed using code available on the GitHub repository: https://github.com/ryanmurphy42/4DSpheroids_Murphy2021. Parameter estimation, by computing MCMC chains, uses the  \textit{MCMCstat} package available on the GitHub repository https://mjlaine.github.io/mcmcstat/ .
+MATLAB R2021b (v9.11) with the Image Processing Toolbox (v11.4), Optimization Toolbox (v9.2), Global Optimization Toolbox (v4.6), and the Statistics and Machine Learning Toolbox (v12.2). Profile likelihood analysis is performed using code available on the GitHub repository: https://github.com/ryanmurphy42/4DSpheroids_Murphy2021. Parameter estimation, by computing MCMC chains, uses the MCMCstat package available on the GitHub repository https://mjlaine.github.io/mcmcstat/ .
 
 ## Guide to using the code
 
