@@ -1,4 +1,4 @@
-# 2022--Murphy et al.--Growth and adaptation mechanisms of tumour spheroids with time-dependent oxygen availability
+# Murphy et al. (2022) Growth and adaptation mechanisms of tumour spheroids with time-dependent oxygen availability
 
 Preprint on bioRxiv: https://www.biorxiv.org/content/10.1101/2022.04.24.489294
 
